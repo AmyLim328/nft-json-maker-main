@@ -1,7 +1,7 @@
 const nftName = "K-Birdz Egg";
 const description = "K-Birdz, Flappy Bird Style P2E game with K-culture made by youtuber JoCoding";
-const hiddenImgUrl = "ipfs://QmbbfqR9EHdEY2Jy2dJYx8jjFftoaMnD6vgKJLMFXemVdL/hidden.mp4";
-const totalNum = 5;
+const hiddenImgUrl = "ipfs://QmavebHyfeat5rtT1RJko3pDsF4pYmd9EWhxze8rZNv2a9";
+const totalNum = 100;
 
 try {
     for (let i = 1; i <= totalNum; i++) {
